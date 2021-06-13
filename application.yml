@@ -1,10 +1,5 @@
 my:
   greeting: Welcome to Great Learning
   list: 
-    values: One,Two,Three
+    values: apple,banana,Mango
 
-db:
-  driverClassName: org.h2.Driver
-  password: ''
-  url: jdbc:h2:mem:passwordStorageApp
-  username: admin
