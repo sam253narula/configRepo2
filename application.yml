@@ -7,3 +7,12 @@ db:
   connection: connection-string
   host: 127.0.0.1
   port: 1200
+
+spring:
+    datasource:
+        driverClassName: org.h2.Driver
+        password: ''
+        url: jdbc:h2:mem:apppasswords
+        username: admin
+    h2:
+        console:
