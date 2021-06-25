@@ -1,5 +1,5 @@
 my:
-  greeting: Welcome to Great Learning
+  greeting: Welcome to Learning Spring Boot Configuration Management with Great Learning
   list: 
     values: apple,banana,Mango
 
