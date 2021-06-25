@@ -1,0 +1,5 @@
+my:
+  greeting: Welcome to Learning Spring Boot Configuration Management with Great Learning
+  list: 
+    values: apple,banana,Mango
+app.name: Config Client 1
